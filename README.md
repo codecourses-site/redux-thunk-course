@@ -1,4 +1,4 @@
-# How to Learn Redux [DETAIL COURSE]
+# How to Learn Redux Thunk [DETAIL COURSE]
 
 ![](./screenshots/screenshot.png)
 
