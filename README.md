@@ -24,7 +24,7 @@
 
 - For the full course, You can refer to this [link](https://codecourses.site/react/how-to-learn-redux-thunk-ep-1/).
 
-- You can refer to this [Youtube video](https://www.youtube.com/watch?v=Z31bU1cU5KM) for the live demo.
+- You can refer to this [Youtube video](https://www.youtube.com/watch?v=ameL4CxFh3s) for the live demo.
 
 <a id="technologies"></a>
 
