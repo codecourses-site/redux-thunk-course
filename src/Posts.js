@@ -18,7 +18,7 @@ const Posts = () => {
   return (
     <div className="posts__container">
       <h1 className="posts__app-title">
-        How to Learn Redux Toolkit [DETAIL COURSE] - Code Courses
+        How to Learn Redux Thunk [DETAIL COURSE] - Code Courses
       </h1>
       {posts?.map((post) => (
         <div key={post.id} className="posts__item">
